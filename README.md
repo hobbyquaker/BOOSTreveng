@@ -41,6 +41,7 @@ Roadmap:
 - Move Hub 6-axis tilt sensor readings [on progress]
 - Color sensor colored-light mode
 - Color sensor ? light intensity ?
+- Sound playback
 
 Totally blind yet:
 - battery level - why didn't LEGO used the standard characteristic?!?
